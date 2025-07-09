@@ -49,6 +49,7 @@ I’m a student with interests in **gaming, technology, artificial intelligence,
 
 ## 🌐 Connect with me
 
+- [Personal Website](https://tou.nekoweb.org/)
 - [X (Twitter)](https://x.com/That1Unoriginal)
 - [Bluesky](https://bsky.app/profile/t1u.bsky.social)
 - [Threads](https://www.threads.com/@thatunoriginal)
