@@ -1,4 +1,3 @@
-````markdown name=README.md
 # 👋 Hi, I'm ThatOneUnoriginal
 
 Born and raised in Ontario, Canada.  
