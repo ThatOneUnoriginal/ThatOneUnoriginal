@@ -46,7 +46,7 @@ I’m a student with interests in **gaming, technology, artificial intelligence,
 - [pano scrobbler](https://github.com/kawaiiDango/pano-scrobbler)
 - [zen browser](https://github.com/ZenBrowser/zen)
 
---
+---
 
 ## 😁 Repository Showcase
 - [lua yt-dlp wrapper](https://github.com/ThatOneUnoriginal/lua-yt-dlp-wrapper): A rudementary yt-dlp wrapper coded entirely in Lua.
