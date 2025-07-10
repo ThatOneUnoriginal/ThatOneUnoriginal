@@ -42,6 +42,7 @@ I’m a student with interests in **gaming, technology, artificial intelligence,
 - [ffmpeg](https://github.com/FFmpeg/FFmpeg)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [Metrolist](https://github.com/mostafaalagamy/Metrolist)
+- [uBlock Origin](https://github.com/gorhill/uBlock)
 - [pano scrobbler](https://github.com/kawaiiDango/pano-scrobbler)
 - [zen browser](https://github.com/ZenBrowser/zen)
 
