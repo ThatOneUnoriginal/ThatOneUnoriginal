@@ -10,6 +10,8 @@ I’m a student with interests in **gaming, technology, artificial intelligence,
 <p>
   <img alt="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="36" height="36"/>
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36"/>
+  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" height="36"/>
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36"/>
 </p>
 
 ---
@@ -17,8 +19,6 @@ I’m a student with interests in **gaming, technology, artificial intelligence,
 ## 🎯 Languages I Want to Learn
 
 <p>
-  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" height="36"/>
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36"/>
   <img alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" height="36"/>
   <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" height="36"/>
   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/>
